@@ -1,0 +1,25 @@
+{
+  "name": "web-parsing-scripts",
+  "version": "1.0.0",
+  "description": "by korstan",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/korstan/web-parsing-scripts.git"
+  },
+  "author": "korstan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/korstan/web-parsing-scripts/issues"
+  },
+  "homepage": "https://github.com/korstan/web-parsing-scripts#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  }
+}
